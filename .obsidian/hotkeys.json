@@ -1,0 +1,11 @@
+{
+  "mathlive:open-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
+    }
+  ]
+}
